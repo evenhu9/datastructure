@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icon/enlarge.png</file>
+        <file>icon/shrink.png</file>
+        <file>icon/connect.png</file>
+        <file>icon/station.png</file>
+        <file>icon/subway.png</file>
+        <file>icon/add.png</file>
+        <file>icon/metro-shanghai.png</file>
+        <file>icon/mouse.png</file>
+        <file>icon/help.png</file>
+        <file>icon/bkg.png</file>
+        <file>icon/smallpage.png</file>
+        <file>icon/map.png</file>
+        <file>icon/all.png</file>
+    </qresource>
+    <qresource prefix="/data">
+        <file>data/outLine.txt</file>
+        <file>data/demo.txt</file>
+    </qresource>
+    <qresource prefix="/html">
+        <file>html/helpAddByText.html</file>
+        <file>html/helpAddConnection.html</file>
+        <file>html/helpAddLine.html</file>
+        <file>html/helpAddStation.html</file>
+        <file>html/helpTransfer.html</file>
+        <file>html/helpWatch.html</file>
+    </qresource>
+</RCC>
